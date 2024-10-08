@@ -31,23 +31,23 @@
 </details>
 
 <!-- Links -->
-<a href="https://br.linkedin.com/in/davi-augusto-0633b91a2">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<!--<a href="https://br.linkedin.com/in/davi-augusto-0633b91a2">-->
+<!--<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">-->
 </a>
 
 <!-- GithubStats -->
 <a href="https://github.com/davi-augusto-cardoso/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=davi-augusto-cardoso&show_icons=true&theme=tokyonight" alt="Davi's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=davi-augusto-cardoso&show_icons=true&theme=dark" alt="Davi's github stats" />
 </a>
 <a href="https://github.com/davi-augusto-cardoso/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-augusto-cardoso&layout=compact&theme=night&hide_border=false" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-augusto-cardoso&layout=compact&theme=dark&hide_border=false" />
 </a>
 
 <!-- Portfolio -->
 
 <!-- GIF -->
 <p>
-    <img align="center" src="https://github.com/davi-augusto-cardoso/davi-augusto-cardoso/assets/141890618/78823818-99c0-4136-9a4f-379c9f0978ec" alt="Imagem">
+    <img src="https://github.com/user-attachments/assets/78f3ca0d-4789-4e9e-9132-5abb43789efd" />
 </p>
 
 ## Skills
