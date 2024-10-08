@@ -47,6 +47,7 @@
 
 <!-- GIF -->
 <p>
+    <h2>É o paranauês</h2>
     <img src="https://github.com/user-attachments/assets/78f3ca0d-4789-4e9e-9132-5abb43789efd" />
 </p>
 
@@ -54,13 +55,11 @@
 <!-- Skills: Programming Languages -->
 <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-          
-          
+    <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+    <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
 </div>
+
 
 <!-- Skills: Tools & Frameworks -->
 <div style="flex-basis: 48%;">
