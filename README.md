@@ -49,9 +49,9 @@
     <h2>É o paranauês</h2>
     <img src="https://github.com/user-attachments/assets/78f3ca0d-4789-4e9e-9132-5abb43789efd" />
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davi-augusto-cardoso/davi-augusto-cardos/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davi-augusto-cardos/davi-augusto-cardos/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davi-augusto-cardos/davi-augusto-cardos/output/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davi-augusto-cardoso/davi-augusto-cardoso/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davi-augusto-cardos/davi-augusto-cardos0/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davi-augusto-cardos/davi-augusto-cardoso/output/github-contribution-grid-snake.svg">
     </picture>
 </p>
 
