@@ -17,8 +17,8 @@
 <!-- Presentation -->
 <p>
     - Olá 👋, sou o Davi!<br>
-    - 🌱 Atualmente estou cursando Bacharelado em Sistemas de Informação na PUCPR.<br>
-    - 🔭 Estou em busca da minha primeira oportunidade de estágio. Meu objetivo é me tornar um desenvolvedor FullStack.
+    - 🌱 Atualmente estou cursando Engenharia de Computação na PUCPR.<br>
+    - 🔭 .
 </p>
 
 <!-- Dropdown -->
