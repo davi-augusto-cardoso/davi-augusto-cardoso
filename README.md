@@ -36,7 +36,7 @@
 
 <!-- GithubStats -->
 <div>
-    <div>
+    <div styles="aling:center">
         <a href="https://github.com/davi-augusto-cardoso/github-readme-stats">
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=davi-augusto-cardoso&show_icons=true&theme=dark" alt="Davi's github stats" />
         </a>
