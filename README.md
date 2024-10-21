@@ -82,8 +82,8 @@
 <div align="center">
     <p>
         <h2>É o paranauês</h2>
-        <img src="https://github.com/user-attachments/assets/78f3ca0d-4789-4e9e-9132-5abb43789efd" />
         <img src="https://github.com/davi-augusto-cardoso/davi-augusto-cardoso/blob/output/github-contribution-grid-snake.svg" />
+        <img src="https://github.com/user-attachments/assets/78f3ca0d-4789-4e9e-9132-5abb43789efd" />
     </p>
 </div>
 </body>
