@@ -51,15 +51,6 @@
 
 <!-- Portfolio -->
 
-<!-- GIF -->
-<div align="center">
-    <p>
-        <h2>É o paranauês</h2>
-        <img src="https://github.com/user-attachments/assets/78f3ca0d-4789-4e9e-9132-5abb43789efd" />
-        <img src="https://github.com/davi-augusto-cardoso/davi-augusto-cardoso/blob/output/github-contribution-grid-snake.svg" />
-    </p>
-</div>
-
 ## Skills
 <!-- Skills: Programming Languages -->
 <div style="flex-basis: 48%;">
@@ -71,7 +62,6 @@
     <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain.svg" />
           
 </div>
-
 
 <!-- Skills: Tools & Frameworks -->
 <div style="flex-basis: 48%;">
@@ -88,6 +78,13 @@
     <img align="center" alt="Postgree" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png">
     <img align="center" alt="MySql" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
 </div>
-
+<!-- GIF -->
+<div align="center">
+    <p>
+        <h2>É o paranauês</h2>
+        <img src="https://github.com/user-attachments/assets/78f3ca0d-4789-4e9e-9132-5abb43789efd" />
+        <img src="https://github.com/davi-augusto-cardoso/davi-augusto-cardoso/blob/output/github-contribution-grid-snake.svg" />
+    </p>
+</div>
 </body>
 </html>
