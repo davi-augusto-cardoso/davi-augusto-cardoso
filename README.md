@@ -38,12 +38,10 @@
 <div>
     <div align="center">
         <a href="https://github.com/davi-augusto-cardoso/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-augusto-cardoso&layout=compact&theme=white&hide_border=false" />
-        </a>
-    </div>
-    <div align="center">
-        <a href="https://github.com/davi-augusto-cardoso/github-readme-stats">
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=davi-augusto-cardoso&show_icons=true&theme=white" alt="Davi's github stats" />
+        </a>
+        <a href="https://github.com/davi-augusto-cardoso/github-readme-stats">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-augusto-cardoso&layout=compact&theme=white&hide_border=false" />
         </a>
     </div>
 </div>
