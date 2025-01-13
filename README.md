@@ -75,6 +75,7 @@
     <img align="center" alt="AWS" height="35" width="35" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png">
     <img align="center" alt="Postgree" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png">
     <img align="center" alt="MySql" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
+    <img align="center" alt="MySql" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png">
 </div>
 <!-- GIF -->
 <div align="center">
