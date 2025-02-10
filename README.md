@@ -16,7 +16,7 @@
 <!-- Presentation -->
 <p>
     - Olá 👋, sou o Davi!<br>
-    - 🌱 Atualmente estou cursando Engenharia de Computação na PUCPR.<br>
+    - 🌱 Formado em Engenharia de Computação pela PUCPR.<br>
     - 🔭 Trabalhando como freelancer na área de dados.
 </p>
 
@@ -24,8 +24,8 @@
 <details>
     <summary>👨‍💻 Sobre mim</summary>
     <p>
-        - 💬 Tenho 25 anos e atualmente moro em Curitiba. Tenho conhecimento com Python, Java e C++.<br>
-        - ⚡ Gosto bastante de programar, jogar jogos virtuais e assistir filmes e séries.
+        - 💬 Tenho 25 anos e atualmente moro em Curitiba. Tenho conhecimento com Python, Kotlin, Java e C++.<br>
+        - ⚡ Gosto bastante de programar, hackear(Ambientes controlados) jogar jogos virtuais e assistir filmes e séries.
     </p>
 </details>
 
